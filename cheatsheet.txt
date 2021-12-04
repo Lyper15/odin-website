@@ -1,0 +1,8 @@
+HTML text elements
+
+Paragraphs	p
+Headings	h#
+Bold		strong
+Italic		em
+Comments	<!-- TEXT -->
+
